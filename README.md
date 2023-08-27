@@ -1,6 +1,7 @@
 # Сафронова Ксения Александровна
 ### _Старший менеджер отдела переводов в IT компании_
-![анкета](https://github.com/STALKSA/AboutMe/assets/109988277/36f630c0-48a8-45b3-9543-e070efc8ea83 width="400")
+<img src="[http://url.to/image.png](https://github.com/STALKSA/AboutMe/assets/109988277/36f630c0-48a8-45b3-9543-e070efc8ea83)" width="200" height="200">
+
 
 
 * ул. Кантемировская 5, кор 2
